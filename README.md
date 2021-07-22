@@ -4,5 +4,5 @@ Description:It is a Basic API which performs CRUD operation with basic authentic
 
 Installation:'npm install'
 
-Usage:'npm run dev' it will start server
+Usage:'npm run dev' it will start server and ctrl+c will stop the server
 
